@@ -1,3 +1,3 @@
 # Dashbord_e-commerce
 
-<img width="1317" height="739" alt="Screenshot 2025-09-17 201221" src="https://github.com/user-attachments/assets/0599c47c-2fb6-4f8c-8329-23da5969eea1" />
+<img width="1122" height="634" alt="image" src="https://github.com/user-attachments/assets/fc825481-022a-498d-9211-018960cc1cab" />
